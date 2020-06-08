@@ -1,0 +1,157 @@
+2020-06-08 09:12:51 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 09:12:51 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 09:12:51 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 09:12:51 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 09:12:51 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 09:12:51 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 09:12:51 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 09:12:51 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 09:12:51 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 09:12:51 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 09:12:51 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 09:12:51 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 09:12:51 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 09:12:51 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 09:12:51 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 09:12:51 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 09:12:51 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 09:12:51 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 09:12:52 TRACE UserController:18 - Go into loadFormRegister()
+2020-06-08 09:12:52 TRACE UserController:28 - Exit loadFormRegister()
+2020-06-08 09:12:52 TRACE UserController:18 - Go into loadFormRegister()
+2020-06-08 09:12:52 TRACE UserController:28 - Exit loadFormRegister()
+2020-06-08 09:12:52 TRACE UserController:18 - Go into loadFormRegister()
+2020-06-08 09:12:52 TRACE UserController:28 - Exit loadFormRegister()
+2020-06-08 09:13:25 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 09:13:25 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 09:13:25 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 09:13:25 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 09:13:25 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 09:13:25 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 09:13:25 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 09:13:25 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy44
+2020-06-08 09:13:25 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 09:13:25 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 09:13:25 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 09:13:25 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 09:13:25 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 09:13:26 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 09:13:26 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 09:13:26 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 09:13:26 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 09:13:26 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 09:13:39 TRACE UserController:18 - Go into loadFormRegister()
+2020-06-08 09:13:39 TRACE UserController:28 - Exit loadFormRegister()
+2020-06-08 09:20:51 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 09:20:51 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 09:20:51 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 09:20:51 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 09:20:51 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 09:20:51 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 09:20:51 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 09:20:51 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 09:20:51 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 09:20:51 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 09:20:51 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 09:20:51 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 09:20:51 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 09:20:51 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 09:20:51 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 09:20:51 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 09:20:51 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 09:20:51 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 09:20:52 TRACE UserController:22 - Go into loadFormRegister()
+2020-06-08 09:20:52 TRACE UserController:32 - Exit loadFormRegister()
+2020-06-08 09:20:53 TRACE UserController:22 - Go into loadFormRegister()
+2020-06-08 09:20:53 TRACE UserController:32 - Exit loadFormRegister()
+2020-06-08 09:20:53 TRACE UserController:22 - Go into loadFormRegister()
+2020-06-08 09:20:53 TRACE UserController:32 - Exit loadFormRegister()
+2020-06-08 09:20:55 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='', age=null} with node name age.
+2020-06-08 09:20:55 TRACE SimpleConstraintTree:47 - Validating value null against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Min, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@3ce95162, message={javax.validation.constraints.Min.message}, value=18, payload=[Ljava.lang.Class;@489452de}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:20:55 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='', age=null} with node name name.
+2020-06-08 09:20:55 TRACE SimpleConstraintTree:47 - Validating value  against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@413c122, message={javax.validation.constraints.NotNull.message}, payload=[Ljava.lang.Class;@7570cffd}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:20:55 TRACE SimpleConstraintTree:47 - Validating value  against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Size, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@34add140, min=2, message={javax.validation.constraints.Size.message}, max=30, payload=[Ljava.lang.Class;@2e2d0c26}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:20:55 TRACE PlatformResourceBundleLocator:153 - ValidationMessages not found by thread context classloader
+2020-06-08 09:20:55 TRACE PlatformResourceBundleLocator:153 - ValidationMessages not found by validator classloader
+2020-06-08 09:20:55 DEBUG PlatformResourceBundleLocator:128 - ValidationMessages not found.
+2020-06-08 09:20:55 TRACE PlatformResourceBundleLocator:153 - ContributorValidationMessages not found by thread context classloader
+2020-06-08 09:20:55 TRACE PlatformResourceBundleLocator:153 - ContributorValidationMessages not found by validator classloader
+2020-06-08 09:20:55 DEBUG PlatformResourceBundleLocator:128 - ContributorValidationMessages not found.
+2020-06-08 09:20:55 DEBUG PlatformResourceBundleLocator:125 - org.hibernate.validator.ValidationMessages found.
+2020-06-08 09:20:55 TRACE UserController:38 - Go into result()
+2020-06-08 09:20:55 INFO  UserController:39 - User{name='', age=null}
+2020-06-08 09:23:00 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='12', age=null} with node name age.
+2020-06-08 09:23:00 TRACE SimpleConstraintTree:47 - Validating value null against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Min, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@3ce95162, message={javax.validation.constraints.Min.message}, value=18, payload=[Ljava.lang.Class;@489452de}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:23:00 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='12', age=null} with node name name.
+2020-06-08 09:23:00 TRACE SimpleConstraintTree:47 - Validating value 12 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@413c122, message={javax.validation.constraints.NotNull.message}, payload=[Ljava.lang.Class;@7570cffd}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:23:00 TRACE SimpleConstraintTree:47 - Validating value 12 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Size, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@34add140, min=2, message={javax.validation.constraints.Size.message}, max=30, payload=[Ljava.lang.Class;@2e2d0c26}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:23:00 TRACE UserController:38 - Go into result()
+2020-06-08 09:23:00 INFO  UserController:39 - User{name='12', age=null}
+2020-06-08 09:23:00 TRACE UserController:46 - Exit result()
+2020-06-08 09:24:05 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 09:24:05 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 09:24:05 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 09:24:05 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 09:24:05 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 09:24:05 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 09:24:05 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 09:24:05 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 09:24:05 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 09:24:05 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 09:24:05 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 09:24:05 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 09:24:05 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 09:24:05 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 09:24:05 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 09:24:05 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 09:24:05 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 09:24:05 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 09:24:06 TRACE UserController:22 - Go into loadFormRegister()
+2020-06-08 09:24:06 TRACE UserController:32 - Exit loadFormRegister()
+2020-06-08 09:24:06 TRACE UserController:22 - Go into loadFormRegister()
+2020-06-08 09:24:06 TRACE UserController:32 - Exit loadFormRegister()
+2020-06-08 09:24:06 TRACE UserController:22 - Go into loadFormRegister()
+2020-06-08 09:24:06 TRACE UserController:32 - Exit loadFormRegister()
+2020-06-08 09:24:24 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='', age=null} with node name age.
+2020-06-08 09:24:24 TRACE SimpleConstraintTree:47 - Validating value null against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Min, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@5b45b941, message={javax.validation.constraints.Min.message}, value=18, payload=[Ljava.lang.Class;@23026c83}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:24 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='', age=null} with node name name.
+2020-06-08 09:24:24 TRACE SimpleConstraintTree:47 - Validating value  against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@109b4b4b, message={javax.validation.constraints.NotNull.message}, payload=[Ljava.lang.Class;@3ff512d7}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:24 TRACE SimpleConstraintTree:47 - Validating value  against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Size, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@4b9e171a, min=2, message={javax.validation.constraints.Size.message}, max=30, payload=[Ljava.lang.Class;@195dc31}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:24 TRACE PlatformResourceBundleLocator:153 - ValidationMessages not found by thread context classloader
+2020-06-08 09:24:24 TRACE PlatformResourceBundleLocator:153 - ValidationMessages not found by validator classloader
+2020-06-08 09:24:24 DEBUG PlatformResourceBundleLocator:128 - ValidationMessages not found.
+2020-06-08 09:24:24 TRACE PlatformResourceBundleLocator:153 - ContributorValidationMessages not found by thread context classloader
+2020-06-08 09:24:24 TRACE PlatformResourceBundleLocator:153 - ContributorValidationMessages not found by validator classloader
+2020-06-08 09:24:24 DEBUG PlatformResourceBundleLocator:128 - ContributorValidationMessages not found.
+2020-06-08 09:24:24 DEBUG PlatformResourceBundleLocator:125 - org.hibernate.validator.ValidationMessages found.
+2020-06-08 09:24:24 TRACE UserController:38 - Go into result()
+2020-06-08 09:24:24 INFO  UserController:39 - User{name='', age=null}
+2020-06-08 09:24:29 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='123', age=0} with node name age.
+2020-06-08 09:24:29 TRACE SimpleConstraintTree:47 - Validating value 0 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Min, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@5b45b941, message={javax.validation.constraints.Min.message}, value=18, payload=[Ljava.lang.Class;@23026c83}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:29 TRACE PlatformResourceBundleLocator:153 - ValidationMessages not found by thread context classloader
+2020-06-08 09:24:29 TRACE PlatformResourceBundleLocator:153 - ValidationMessages not found by validator classloader
+2020-06-08 09:24:29 DEBUG PlatformResourceBundleLocator:128 - ValidationMessages not found.
+2020-06-08 09:24:29 TRACE PlatformResourceBundleLocator:153 - ContributorValidationMessages not found by thread context classloader
+2020-06-08 09:24:29 TRACE PlatformResourceBundleLocator:153 - ContributorValidationMessages not found by validator classloader
+2020-06-08 09:24:29 DEBUG PlatformResourceBundleLocator:128 - ContributorValidationMessages not found.
+2020-06-08 09:24:29 DEBUG PlatformResourceBundleLocator:125 - org.hibernate.validator.ValidationMessages found.
+2020-06-08 09:24:29 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='123', age=0} with node name name.
+2020-06-08 09:24:29 TRACE SimpleConstraintTree:47 - Validating value 123 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@109b4b4b, message={javax.validation.constraints.NotNull.message}, payload=[Ljava.lang.Class;@3ff512d7}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:29 TRACE SimpleConstraintTree:47 - Validating value 123 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Size, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@4b9e171a, min=2, message={javax.validation.constraints.Size.message}, max=30, payload=[Ljava.lang.Class;@195dc31}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:29 TRACE UserController:38 - Go into result()
+2020-06-08 09:24:29 INFO  UserController:39 - User{name='123', age=0}
+2020-06-08 09:24:37 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='123', age=17} with node name age.
+2020-06-08 09:24:37 TRACE SimpleConstraintTree:47 - Validating value 17 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Min, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@5b45b941, message={javax.validation.constraints.Min.message}, value=18, payload=[Ljava.lang.Class;@23026c83}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:37 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='123', age=17} with node name name.
+2020-06-08 09:24:37 TRACE SimpleConstraintTree:47 - Validating value 123 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@109b4b4b, message={javax.validation.constraints.NotNull.message}, payload=[Ljava.lang.Class;@3ff512d7}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:37 TRACE SimpleConstraintTree:47 - Validating value 123 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Size, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@4b9e171a, min=2, message={javax.validation.constraints.Size.message}, max=30, payload=[Ljava.lang.Class;@195dc31}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:37 TRACE UserController:38 - Go into result()
+2020-06-08 09:24:37 INFO  UserController:39 - User{name='123', age=17}
+2020-06-08 09:24:41 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='123', age=18} with node name age.
+2020-06-08 09:24:41 TRACE SimpleConstraintTree:47 - Validating value 18 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Min, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@5b45b941, message={javax.validation.constraints.Min.message}, value=18, payload=[Ljava.lang.Class;@23026c83}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:41 TRACE JPATraversableResolver:41 - Calling isReachable on object User{name='123', age=18} with node name name.
+2020-06-08 09:24:41 TRACE SimpleConstraintTree:47 - Validating value 123 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@109b4b4b, message={javax.validation.constraints.NotNull.message}, payload=[Ljava.lang.Class;@3ff512d7}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:41 TRACE SimpleConstraintTree:47 - Validating value 123 against constraint defined by ConstraintDescriptorImpl{annotation=j.v.c.Size, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=METHOD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={groups=[Ljava.lang.Class;@4b9e171a, min=2, message={javax.validation.constraints.Size.message}, max=30, payload=[Ljava.lang.Class;@195dc31}, constraintType=GENERIC, valueUnwrapping=DEFAULT}.
+2020-06-08 09:24:41 TRACE UserController:38 - Go into result()
+2020-06-08 09:24:41 INFO  UserController:39 - User{name='123', age=18}
+2020-06-08 09:24:41 TRACE UserController:46 - Exit result()
